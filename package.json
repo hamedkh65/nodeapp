@@ -1,0 +1,23 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "This is a node.js app repository",
+  "main": "mysystem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamedkh65/nodeapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamedkh65/nodeapp/issues"
+  },
+  "homepage": "https://github.com/hamedkh65/nodeapp#readme",
+  "dependencies": {
+    "zipcode": "^0.1.1"
+  }
+}
