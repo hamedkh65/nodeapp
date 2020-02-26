@@ -2,7 +2,7 @@
   "name": "nodeapp",
   "version": "1.0.0",
   "description": "This is a node.js app repository",
-  "main": "mysystem.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/hamedkh65/nodeapp#readme",
   "dependencies": {
-    "zipcode": "^0.1.1"
+    "express": "^4.17.1",
+    "zipcode": "^0.1.1",
+    "ejs": "*"
   }
 }
